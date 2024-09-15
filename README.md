@@ -50,6 +50,7 @@ I am a QA Automation Engineer <img src="https://media.giphy.com/media/WUlplcMpOC
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" **alt="Selenium" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" title="Playwright" **alt="Selenium" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="Pytest" **alt="Pytest" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/tree/master/icons/jest" title="jest" **alt="jest" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" **alt="Postman" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" **alt="Jira" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" title="Azure DevOps" **alt="Azure DevOps" width="40" height="40"/>
